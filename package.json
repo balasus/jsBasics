@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "jsbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balasus/jsBasics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balasus/jsBasics/issues"
+  },
+  "homepage": "https://github.com/balasus/jsBasics#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.8"
+  }
+}
